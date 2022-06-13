@@ -62,8 +62,12 @@ double dividirValor(double valor)
     {
         double resultadoDivisao = pegarResultadoDaUltimaOperacaoMatematica() / valor;
         definirResultadoDaUltimaOperacaoMatematica(resultadoDivisao);
+        if (valor == 0)
+        {
+            throw new Exception("Valor inserido é inválido.");
+        }
         return resultadoDivisao;
-        throw new Exception("Valor inserido é inválido.");
+        
     }
 
     catch (Exception erro) when (valor == 0 || resultado == 0)
