@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josepj\\source\\repos\\lanyarag\\calculadora\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\amandab\\Documents\\Workspace_DH\\Aula 13062022\\calculadora\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josepj\\source\\repos\\lanyarag\\calculadora\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\amandab\\Documents\\Workspace_DH\\Aula 13062022\\calculadora\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josepj\\source\\repos\\lanyarag\\calculadora\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\amandab\\Documents\\Workspace_DH\\Aula 13062022\\calculadora\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\josepj\\source\\repos\\lanyarag\\calculadora\\Calculadora\\Calculadora.csproj",
-        "packagesPath": "C:\\Users\\josepj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josepj\\source\\repos\\lanyarag\\calculadora\\Calculadora\\obj\\",
+        "projectPath": "C:\\Users\\amandab\\Documents\\Workspace_DH\\Aula 13062022\\calculadora\\Calculadora\\Calculadora.csproj",
+        "packagesPath": "C:\\Users\\amandab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amandab\\Documents\\Workspace_DH\\Aula 13062022\\calculadora\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\josepj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\amandab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

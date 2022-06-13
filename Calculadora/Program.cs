@@ -7,20 +7,63 @@ while (opcaoUsuario != "0")
     {
         case "1":
             Console.WriteLine("Você digitou 1 - Somar. Qual valor deseja somar?");
-            //somarValor(double.Parse(Console.ReadLine()));
-            Console.WriteLine(somarValor(double.Parse(Console.ReadLine())));
+            try
+            {
+                double operando = double.Parse(Console.ReadLine());
+                Console.WriteLine(somarValor(operando));
+            }
+            catch (Exception erro)
+            {
+                Console.WriteLine(Environment.NewLine + "CodError002 - O usuário não pode inserir qualquer valor além de números.");
+                Console.WriteLine(erro.GetType());
+                Console.WriteLine("Localização do erro." + Environment.NewLine);
+                Console.WriteLine("Por favor, digite um numero." + Environment.NewLine);
+            }
             break;
         case "2":
             Console.WriteLine("Você digitou 2 - Subtrair. Qual valor deseja subtrair?");
-            Console.WriteLine(subtrairValor(double.Parse(Console.ReadLine())));
+            try
+            {
+                double operando = double.Parse(Console.ReadLine());
+                Console.WriteLine(subtrairValor(operando));
+            }
+            catch (Exception erro)
+            {
+                Console.WriteLine(Environment.NewLine + "CodError002 - O usuário não pode inserir qualquer valor além de números.");
+                Console.WriteLine(erro.GetType());
+                Console.WriteLine("Localização do erro." + Environment.NewLine);
+                Console.WriteLine("Por favor, digite um numero." + Environment.NewLine);
+            }
             break;
         case "3":
             Console.WriteLine("Você digitou 3 - Multiplicar. Qual valor deseja multiplicar?");
-            Console.WriteLine(multiplicarValor(double.Parse(Console.ReadLine())));
+            try
+            {
+                double operando = double.Parse(Console.ReadLine());
+                Console.WriteLine(multiplicarValor(operando));
+            }
+            catch (Exception erro)
+            {
+                Console.WriteLine(Environment.NewLine + "CodError002 - O usuário não pode inserir qualquer valor além de números.");
+                Console.WriteLine(erro.GetType());
+                Console.WriteLine("Localização do erro." + Environment.NewLine);
+                Console.WriteLine("Por favor, digite um numero." + Environment.NewLine);
+            }
             break;
         case "4":
             Console.WriteLine("Você digitou 4 - Dividir. Qual valor deseja dividir?");
-            Console.WriteLine(dividirValor(double.Parse(Console.ReadLine())));
+            try
+            {
+                double operando = double.Parse(Console.ReadLine());
+                Console.WriteLine(dividirValor(operando));
+            }
+            catch (Exception erro)
+            {
+                Console.WriteLine(Environment.NewLine + "CodError002 - O usuário não pode inserir qualquer valor além de números.");
+                Console.WriteLine(erro.GetType());
+                Console.WriteLine("Localização do erro." + Environment.NewLine);
+                Console.WriteLine("Por favor, digite um numero." + Environment.NewLine);
+            }
             break;
         case "5":
             Console.WriteLine("Você digitou 5 - Zerar calculadora.");
@@ -92,6 +135,7 @@ double multiplicarValor(double valor)
 double zerarResultado()
 {
     double zerar = resultado * 0;
+    definirResultadoDaUltimaOperacaoMatematica(zerar);
     return zerar;
 }
 

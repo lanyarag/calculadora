@@ -13,3 +13,18 @@ C:\Users\josepj\source\repos\lanyarag\calculadora\Calculadora\obj\Debug\net6.0\r
 C:\Users\josepj\source\repos\lanyarag\calculadora\Calculadora\obj\Debug\net6.0\Calculadora.pdb
 C:\Users\josepj\source\repos\lanyarag\calculadora\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
 C:\Users\josepj\source\repos\lanyarag\calculadora\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll
+C:\Users\amandab\Documents\Workspace_DH\Aula 13062022\calculadora\Calculadora\bin\Debug\net6.0\Calculadora.exe
+C:\Users\amandab\Documents\Workspace_DH\Aula 13062022\calculadora\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+C:\Users\amandab\Documents\Workspace_DH\Aula 13062022\calculadora\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+C:\Users\amandab\Documents\Workspace_DH\Aula 13062022\calculadora\Calculadora\bin\Debug\net6.0\Calculadora.dll
+C:\Users\amandab\Documents\Workspace_DH\Aula 13062022\calculadora\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+C:\Users\amandab\Documents\Workspace_DH\Aula 13062022\calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\amandab\Documents\Workspace_DH\Aula 13062022\calculadora\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amandab\Documents\Workspace_DH\Aula 13062022\calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\amandab\Documents\Workspace_DH\Aula 13062022\calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+C:\Users\amandab\Documents\Workspace_DH\Aula 13062022\calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\amandab\Documents\Workspace_DH\Aula 13062022\calculadora\Calculadora\obj\Debug\net6.0\Calculadora.dll
+C:\Users\amandab\Documents\Workspace_DH\Aula 13062022\calculadora\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+C:\Users\amandab\Documents\Workspace_DH\Aula 13062022\calculadora\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+C:\Users\amandab\Documents\Workspace_DH\Aula 13062022\calculadora\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
+C:\Users\amandab\Documents\Workspace_DH\Aula 13062022\calculadora\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll
