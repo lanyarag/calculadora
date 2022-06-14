@@ -28,3 +28,18 @@ C:\Users\amandab\Documents\Workspace_DH\Aula 13062022\calculadora\Calculadora\ob
 C:\Users\amandab\Documents\Workspace_DH\Aula 13062022\calculadora\Calculadora\obj\Debug\net6.0\Calculadora.pdb
 C:\Users\amandab\Documents\Workspace_DH\Aula 13062022\calculadora\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
 C:\Users\amandab\Documents\Workspace_DH\Aula 13062022\calculadora\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll
+C:\Users\anderlanys\Desktop\Calc2\calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\anderlanys\Desktop\Calc2\calculadora\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderlanys\Desktop\Calc2\calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\anderlanys\Desktop\Calc2\calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+C:\Users\anderlanys\Desktop\Calc2\calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\anderlanys\Desktop\Calc2\calculadora\Calculadora\obj\Debug\net6.0\Calculadora.dll
+C:\Users\anderlanys\Desktop\Calc2\calculadora\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+C:\Users\anderlanys\Desktop\Calc2\calculadora\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+C:\Users\anderlanys\Desktop\Calc2\calculadora\Calculadora\bin\Debug\net6.0\Calculadora.exe
+C:\Users\anderlanys\Desktop\Calc2\calculadora\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+C:\Users\anderlanys\Desktop\Calc2\calculadora\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+C:\Users\anderlanys\Desktop\Calc2\calculadora\Calculadora\bin\Debug\net6.0\Calculadora.dll
+C:\Users\anderlanys\Desktop\Calc2\calculadora\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+C:\Users\anderlanys\Desktop\Calc2\calculadora\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
+C:\Users\anderlanys\Desktop\Calc2\calculadora\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll

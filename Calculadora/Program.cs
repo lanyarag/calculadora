@@ -57,6 +57,13 @@ while (opcaoUsuario != "0")
                 double operando = double.Parse(Console.ReadLine());
                 Console.WriteLine(dividirValor(operando));
             }
+            catch (DivideByZeroException erro)
+            {
+                Console.WriteLine(Environment.NewLine + "CodError001 - Divisão por 0 não é possível.");
+                Console.WriteLine(erro.GetType());
+                Console.WriteLine("Localização do erro." + Environment.NewLine);
+                Console.WriteLine("Por favor, digite um numero." + Environment.NewLine);
+            }
             catch (Exception erro)
             {
                 Console.WriteLine(Environment.NewLine + "CodError002 - O usuário não pode inserir qualquer valor além de números.");
@@ -97,10 +104,8 @@ double subtrairValor(double valor)
     return resultadoSubtração;
 }
 
-double dividirValor2(double valor)
+double dividirValor(double valor)
 {
-    try
-    {
         if (valor == 0)
         {
             throw new DivideByZeroException();
@@ -109,14 +114,7 @@ double dividirValor2(double valor)
         {
             return resultado / valor;
         }
-    }
-    catch (DivideByZeroException exception)
-    {
-        Console.WriteLine("CodError001 - Divisão por 0 não é possível.");
-        Console.WriteLine(exception.GetType());
-        Console.WriteLine("Localização");
-    }
-    return 0;
+    
 }
 
 double multiplicarValor(double valor)
