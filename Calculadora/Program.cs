@@ -97,30 +97,26 @@ double subtrairValor(double valor)
     return resultadoSubtração;
 }
 
-double dividirValor(double valor)
+double dividirValor2(double valor)
 {
-
-
     try
     {
-        double resultadoDivisao = pegarResultadoDaUltimaOperacaoMatematica() / valor;
-        definirResultadoDaUltimaOperacaoMatematica(resultadoDivisao);
         if (valor == 0)
         {
-            throw new Exception("Valor inserido é inválido.");
+            throw new DivideByZeroException();
         }
-        return resultadoDivisao;
-        
+        else
+        {
+            return resultado / valor;
+        }
     }
-
-    catch (Exception erro) when (valor == 0 || resultado == 0)
+    catch (DivideByZeroException exception)
     {
         Console.WriteLine("CodError001 - Divisão por 0 não é possível.");
-        Console.WriteLine(erro.GetType());
-        return valor;
-        Console.WriteLine();
+        Console.WriteLine(exception.GetType());
+        Console.WriteLine("Localização");
     }
-
+    return 0;
 }
 
 double multiplicarValor(double valor)
